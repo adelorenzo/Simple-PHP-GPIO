@@ -1,2 +1,2 @@
 # Simple-PHP-GPIO
-Control fans connected to a Raspberry Pi
+Control GPIO modules connected to a Raspberry Pi
