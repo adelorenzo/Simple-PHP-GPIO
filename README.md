@@ -9,7 +9,7 @@ This a very simple PHP scritp I wrote to control my bedside lamp with a relay mo
 sudo apt-get install lighttpd php
 ```
 
-Yup, that simple. Once lighttpd (or apache2 if you prefer) and php are installed it is as simple putting the script in the /var/www/html folder.
+Yup, that simple. Once lighttpd (or apache2 if you prefer) and php are installed place the script in the /var/www/html folder. It is important that the correct GPIO pins are mapped so the script can work properly.
 
 You can access the script on the http://RASPBERRY IP/ where RASPBERRY IP is the ip adress of your Raspberry Pi.
 
