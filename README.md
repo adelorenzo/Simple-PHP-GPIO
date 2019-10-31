@@ -40,5 +40,3 @@ In order to the script work with the GPIO mapped properly make sure that the pin
 | 15       | IN3              |
 | 16       | IN4              |
 
-
->Bitcoin address for donations: 1A5kwcwe6whjqPwXnJan537PrXVRey2Kxj
